@@ -1,0 +1,35 @@
+body{
+    background-image: linear-gradient(to right, #02AAB0, #00CDAC);
+}
+.container{
+    display: block;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+
+}
+.inputField{
+    width: 20rem;
+    height: 3rem;
+    margin-top: 2rem;
+    border-radius: 10px;
+    border: 0.2px solid black;
+    padding-left: 10px;
+    font-size: 25px;
+    box-shadow: 0px 5px 20px rgb(56, 56, 56);
+
+}
+.btnClass{
+    padding: 20px;
+    margin-left: 5px;
+    border-radius: 10px;
+    margin-top: 0.5rem;
+    box-shadow: 0px 5px 20px rgb(56, 56, 56);
+
+}
+
+.cardClass{
+    border-radius: 10px;
+    padding: 5px;
+    box-shadow: 0px 5px 20px rgb(56, 56, 56);
+}
